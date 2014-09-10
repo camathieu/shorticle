@@ -1,0 +1,16 @@
+{
+
+  // Java verticle
+ "main":"gg.root.ShorticleServer",
+
+  // If your module is going to be registered in the Vert.x module registry you will also need the following
+  // mandatory fields
+  "description":"Vert.x url shortner",
+  "licenses": ["OSEF licence v1"],
+  "author": "Charles-Antoine Mathieu",
+
+  // Optional fields
+  "homepage": "https://github.com/camathieu/shorticle",
+
+  "auto-redeploy": true
+}
